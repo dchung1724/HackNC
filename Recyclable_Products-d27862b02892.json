@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "recyclable-products",
+  "private_key_id": "d27862b02892485913c8b91f22493ab5135a8c94",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCnrq0IZjjS6bJP\n9xYuqdpWa5mBJmb9GT4AGEZ4cKPE9gC90d1+l/MU9kXbi6o0m2r/ETii06zPiyuP\n+zSksZIKE51baTWmJax3TaYwEUQcdlFfy54+J98JBahhA1bCc6Vbr5KNkLlNIMsE\n4anjKJNJJk+4ETlRzJN9+TMF++JfY17VIJO6VeO33mC2+lsEJfDWUV8yQ5kSsMAo\nu+sqiINmSDaeVrqjytKaml8jFIiWTcgRCTYApxAF63XWTAzLdA6y/zgo48mShmN2\nqdmiTL01TxYerpdRv9IL0xZnTUHqoCfYh9NsoawllJamMavn4RnsV1gu3Ce3Ssan\n1sPIHtbzAgMBAAECggEAFPMh8zaySsef25XHU7Us7jcrSpN9somA0Yo2471O+MCz\nfwPFZJefazMJr1BXx5LTX2LLbKx9nsCIhMih3yHAWTnyIwWWClgSoCU3ajH+DIBL\n0mgiMSnSF9J5IwXDxS+lrTrWWJGIVTaPpuB61UKwhCchNqIQQ0QH+Wk1Er5RnhEc\nDLJbQvkXBPBqt367aLlLtnximWMFHG6GYBXcpGdQevzZDw/qvlMU+SeAvCyXPN5/\nkhb96/HigWqObFKjrKzndjBgNanZzqvvrupOWx5tWz7JpuRd8wTsQ3gFvsJrOBAF\nmqOLikwiPos8BXkoufqPYPrlF/n4hv46Evb+X+drgQKBgQDrE4qg5JK/BlsRajil\nVEoNo556npdnfNA44n5HLFBUisbp11EY3K/34HYa+lt/0HGsTZh2g/WPtKw5BNby\n9tnmytdCekKSBFEr91yEvuj1KiOBWZKeqJzqRpOjuL9B8d5l+YZK3ZeMketen612\n5WTpy3IkJml80xsmKmNGHJqZQwKBgQC2m33wKsr1u2kOxWUy49y/0AXGQbT+s+cx\npqfLcQbhn28qI2lfzOz6nDy4GcyP6xLfFya2JAf3hb1N3I389nnCwsSWEl0zSX6t\n10hqGqRsUlNSj2UbElkUR612uM34I+05+LuOYQb62aYjHj26mhTYWZoaDjrf4xl1\nLoEUpzVYkQKBgDaqLKqNfLJ/P94k3VdU6oORcOEC0CJ4m9MemE7ktylxvB/Uuj8V\n0rXJtK1BWtW2Gzj+Ml4dAZWRZhs8TN/jF3jb4oLK+4AJEPcwZotX+cRJMEh8E+Rh\nQVwZXWvNImyrWhRMmjX+oadGp30xlJz5ayYS8VAGvrEQRlfxs3QyYqERAoGAVVvs\nC9dFFocrfd8iBh7jsrof6OQQIjugZ+I6b2v/RnqLsUvqVwDpCeD8tSZCLEg7gxNE\nYkIHg1n9+qaNrODeW/9Fe81LycyiLcsDq62WjJgTIPWs0nHKOCOlX2jVxxesLbwq\nmEycwaf59FKPkmmyMsv3sBRUyxFSdidt6WScGDECgYEAp7KYZ/it28ObrqqwknLA\n7SysOm8kr3ZIFU4AVnnQPtRq0ooTB5fsWseBWPSMPieW64m4QXkUII55ZNfefzKc\nuI9gk5vtWrU6TDvys4UXa4JoHRb+RiKdB0i9briEBO5O4U+xzILB0cpL+PYUlY8/\nAUIiDVaTCszfH7Bobs1icwk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-vision-sa@recyclable-products.iam.gserviceaccount.com",
+  "client_id": "113702567238326335504",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-vision-sa%40recyclable-products.iam.gserviceaccount.com"
+}

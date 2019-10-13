@@ -1,0 +1,75 @@
+Corrugated Cardboard:
+  Do not include:
+  - remove_any_plastic
+  - styrofoam_packaging
+  - discard_elsewhere
+  - no_wax-coated_boxes
+  Include:
+  - corrugated_cardboard
+Drink Cartons:
+  Do not include:
+  - foil_drink_pouches
+  - straws
+  Include:
+  - drink_cartons
+Glass Bottles & Jars:
+  Do not include:
+  - ceramics
+  - cookware
+  - dishes
+  - drinking_glass
+  - light_bulbs
+  - mirrors
+  - pyrex
+  - window_glass
+  Include:
+  - glass_bottles
+  - jars
+Metal Cans:
+  Do not include:
+  - car_parts
+  - pans
+  - pots
+  - scrap_metal
+  Include:
+  - metal_cans
+Mixed Paper:
+  Do not include:
+  - tissue
+  - paper_towels
+  - wax_coated
+  - laminated_paper
+  - credit_cards
+  - other_plastic_items_from_junk_mail
+  - shredded_paper
+  Include:
+  - mixed_paper
+Plastic Bottles, Jugs & Jars:
+  Do not include:
+  - plastic_bags
+  - other_non-rigid_plastics
+  - styrofoam
+  Include:
+  - plastic_bottles
+  - jugs
+  - jars
+Single Layer Cardboard:
+  Do not include:
+  - tissue
+  - paper_towels
+  - wax_coated
+  - laminated_paper
+  - any_plastic
+  - foil_bags
+  - lining
+  Include:
+  - single_layer_cardboard
+Tubs, Cups & Buckets:
+  Do not include:
+  - plastic_bags
+  - other_non-rigid_plastics
+  - styrofoam
+  Include:
+  - tubs
+  - cups
+  - buckets
